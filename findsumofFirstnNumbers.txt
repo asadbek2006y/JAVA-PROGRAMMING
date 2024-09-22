@@ -1,0 +1,4 @@
+#5 - Java Program to Find Sum of First n Numbers 
+Enter n Value = 5
+sum of firstn n numbers = 1+2+3+4+5 = 15
+Formula = (n*(n+1)) / 2

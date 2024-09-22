@@ -1,0 +1,6 @@
+#4 - Java Program to Compute Sum and Average of Array
+Elements 
+Numbers in Array = { 1 ,2 ,3 ,4, 5}
+Sum of Numbers in Array = 15
+Avarage of Numbers in Array = 3
+

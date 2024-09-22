@@ -1,0 +1,4 @@
+#2 - Java Program to find avarage of numbers entered by user 
+Enter the count of numbers = 5
+Numbers entered by user = 10 20 30 40 50
+Avarage of numbers entered by user = 30
