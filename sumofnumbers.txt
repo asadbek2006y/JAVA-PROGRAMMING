@@ -1,0 +1,13 @@
+Java Programming 
+#1 - This Java Program to Find Sum of Numbers Entered by User
+Example:
+Numbers entered by user = 10 20
+Sum of Numbers entered by user = 30
+
+Enter the count of Numbers = 5
+Numbers entered by user = 10 20 30 40 50
+Sum of Numbers  entered by user = 150
+
+#2 - Java program to find avarage of numbers entered by User
+Enter the count of numbers = 5
+
