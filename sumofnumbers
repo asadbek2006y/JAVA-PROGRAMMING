@@ -1,0 +1,32 @@
+// import java.util.Scanner;
+
+// public class sumofnumbers {
+
+//     public static void main(String[] args) {
+//         int num1 , num2;
+//         System.out.println("Enter first number :  ");
+//         Scanner sc = new Scanner(System.in);
+//         num1 = sc.nextInt();
+//         System.out.println("Enter second number :");
+//         num2 = sc.nextInt();
+//         System.out.println("sum of these numbers is :" + (num1 + num2));
+
+//     }
+// }
+import java.util.Scanner;
+
+public class sumofnumbers {
+    public static void main(String[] args) {
+        int count;
+        System.out.println("Enter count of numbers : ");
+        Scanner sc = new Scanner(System.in);
+        count = sc.nextInt();
+        int number, sum = 0;
+        for(int i=0; i<count; i++){
+            number = sc.nextInt();
+            sum = sum+ number;
+        }
+        System.out.println("Sum of all these numbers : " + sum);
+        
+    }
+}
